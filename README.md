@@ -60,4 +60,4 @@ Lecture_01_alignment.ipynb – Python implementation of the analysis
 README.md – Project documentation
 
 ## Author
-Prepared for a Data Analytics / Machine Learning assignment analyzing fairness in recidivism prediction models.
+Prepared for Responsible Machine Learning assignment analyzing fairness in recidivism prediction models.
